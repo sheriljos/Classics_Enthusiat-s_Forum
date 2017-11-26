@@ -1,0 +1,95 @@
+.welcome{
+  margin-left: 380px;
+  color: #cac7c7;
+  font-family: fantasy;
+}
+#register-button{
+  margin-left: 307px;
+}
+#login-button{
+  margin-left: 307px;
+}
+.RegisterContainer{
+  display: inline-block;
+  width: 500px;
+  padding-left: 100px;
+  vertical-align: top;
+}
+.LoginContainer{
+  display: inline-block;
+  width: 500px;
+  padding-left: 100px;
+  vertical-align: top;
+}
+.alert-danger{
+  width: 532px;
+}
+.alert-success{
+  width: 532px;
+}
+.Red-block{
+  width: 450px;
+  height: 250px;
+  background-color: #4d0000;
+  margin: auto;
+  margin-top: 100px
+}
+
+.success-login{
+  margin-left: -268px;
+}
+
+.welcome-login{
+  margin-left: -230px;
+}
+.go-to-form{
+  margin-left: -256px;
+  color: #cac7c7
+}
+.logout-action{
+  margin-left: -190px;
+  color: #cac7c7
+}
+.welcome-wall{
+  color : #e8e8e8;
+  font-family: fantasy;
+  margin-left : 20px;
+  margin-top : 30px;
+  width: 200px;
+  display:inline-block;
+}
+.title-wall{
+  display:inline-block;
+  color : #e8e8e8;
+  font-family: fantasy;
+  margin-left : 150px
+}
+.logout-wall{
+  display:inline-block;
+  font-family: fantasy;
+  margin-left : 250px;
+  color : #e8e8e8;
+}
+.share-mind{
+  color : #376d37;
+  font-size: 40px;
+  font-family: fantasy;
+}
+.btn{
+  margin-left: 1050px;
+  width: 90px;
+  background-color:#376d37
+}
+#post-alert{
+  width: 1150px;
+}
+.comment{
+  color : #376d37;
+  font-size: 30px;
+  font-family: fantasy;
+}
+#coll-button{
+  margin-left: 0px;
+  margin-bottom: 10px;
+  width: 200px
+}
